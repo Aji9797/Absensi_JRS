@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.aistudio
+.aistudio.zip
+npm-debug.log*
+.DS_Store
+.env.local
+.env.*.local

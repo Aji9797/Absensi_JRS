@@ -1,0 +1,17 @@
+{
+  "short_name": "JRS Absensi",
+  "name": "JRS GeoFace Absensi - Presensi Biometrik & Geofence",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait"
+}
